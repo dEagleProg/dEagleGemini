@@ -1,6 +1,4 @@
-# GeminiProChat
-
-English | [中文](README_cn.md) | [Italiano](README_it.md) | [日本語](README_jp.md)
+# dEagle Gemini Pro Chat
 
 Minimal web UI for Gemini Pro Chat.
 
