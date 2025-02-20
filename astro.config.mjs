@@ -25,8 +25,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       injectRegister: 'inline',
       manifest: {
-        name: 'dEagle Gemini Pro Chat',
-        short_name: 'dEagle Gemini Pro',
+        name: 'dEagle Gemini Chat',
+        short_name: 'dEagle Gemini Chat',
         description: 'Minimal web UI for Gemini Pro.',
         theme_color: '#212129',
         background_color: '#ffffff',
