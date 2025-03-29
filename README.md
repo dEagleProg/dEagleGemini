@@ -101,9 +101,6 @@ This project is inspired by and based on the following open-source project:
 
 - [ChatGPT-Demo](https://github.com/anse-app/chatgpt-demo) - For the foundational codebase and features.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=babaohuang/geminiprochat&type=Timeline)](https://star-history.com/#babaohuang/geminiprochat&Timeline)
 
 ## Buy me a coffee
 
